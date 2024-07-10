@@ -1,5 +1,5 @@
 import { Container, Row, Col } from "react-bootstrap";
-import logo from '../pro_image/img/images.jpeg';
+import logo from '../pro_image/img/OIP.jpeg';
 
 
 
